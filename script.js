@@ -4,4 +4,8 @@
 
 // let declare it as a variable
 let lname = document.getElementById("lname").value;
-console.log(lname);
+const bornDate = document.getElementById("bornDate").value;
+
+let d = bornDate;
+console.log(d.toString());
+
