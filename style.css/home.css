@@ -1,0 +1,21 @@
+body{
+  background-image: url(./images6.jpg);
+}
+
+.container{
+    text-align:center;
+    color:rgb(241, 65, 124);
+    padding-top:20%;
+    font-size: x-large;
+}
+button{
+    border-style: double 7px gold;
+    padding:1px;
+    color:teal;
+    background-color: teal;
+    font-size: medium;
+
+}
+button a {
+    color:black;
+}

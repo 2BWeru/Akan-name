@@ -1,0 +1,17 @@
+body{
+    background-color:powderblue;
+    
+}
+
+.landingpage_box{
+    text-align:center;
+    text-size-adjust:78px;
+    padding-top:50%;
+}
+button{
+    color:brown;
+    background-color: tan;
+}
+button a {
+    color:brown;
+}
