@@ -4,16 +4,18 @@ body{
 
 .container{
     text-align:center;
-    color:rgb(241, 65, 124);
-    padding-top:20%;
+    color:rgb(233, 162, 195);
+    padding-top:15%;
     font-size: x-large;
 }
 button{
     border-style: double 7px gold;
     padding:1px;
     color:teal;
-    background-color: teal;
+    background-color: rgb(206, 180, 180);
     font-size: medium;
+    font-weight:500;
+    
 
 }
 button a {
