@@ -1,17 +1,25 @@
-body{
-    background-color:powderblue;
+.bod{
+    background-color:whitesmoke;
     
 }
 
-.landingpage_box{
-    text-align:center;
-    text-size-adjust:78px;
-    padding-top:50%;
+ .landingpage_box{
+    float:left;
+    padding-left:30%;
+    padding-top:20%;
+    
 }
+.enterbtn{
+    padding-left:10px;
+}
+
 button{
+    text-align:center;
+    margin-left:5%;
     color:brown;
-    background-color: tan;
+    background-color: teal;
+
 }
 button a {
     color:brown;
-}
+} 
