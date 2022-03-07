@@ -48,7 +48,14 @@
       <input type="text" id="bornDate" onclick="inpDate" required> 
         <br>
         <script>
-            let bornDate = 
+            function bornDate(d , m) {
+              if (d <=0 || d > 31 ){
+                bornDate.innerHTML  = alert("Invalid date value");
+              }
+              else if (m <= 12 || m > 12){
+                bornDate.innerHTML = alert("Invalid month value");
+              }
+            }
         </script>
            <label for="email">Email</label><br>
       <input type="text" name="email" id="email"required>
